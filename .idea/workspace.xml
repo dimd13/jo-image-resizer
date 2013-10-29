@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97a81627-71df-4ff9-8b1d-28fa105bbd1e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jo-image-resizer.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jo_image_resizer.php" afterPath="$PROJECT_DIR$/jo_image_resizer.php" />
     </list>
     <ignored path="jo-image-resizer.iws" />
@@ -36,10 +28,8 @@
       <file leaf-file-name="jo_image_resizer.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jo_image_resizer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="14" selection-start="966" selection-end="966" vertical-scroll-proportion="0.6533575" vertical-offset="180" max-vertical-offset="9162">
-              <folding>
-                <element signature="e#6#81#0" expanded="true" />
-              </folding>
+            <state line="17" column="17" selection-start="603" selection-end="603" vertical-scroll-proportion="0.5553539" vertical-offset="0" max-vertical-offset="9198">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -178,10 +168,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/jo_image_resizer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="14" selection-start="966" selection-end="966" vertical-scroll-proportion="0.6533575" vertical-offset="180" max-vertical-offset="9162">
-          <folding>
-            <element signature="e#6#81#0" expanded="true" />
-          </folding>
+        <state line="17" column="17" selection-start="603" selection-end="603" vertical-scroll-proportion="0.5553539" vertical-offset="0" max-vertical-offset="9198">
+          <folding />
         </state>
       </provider>
     </entry>

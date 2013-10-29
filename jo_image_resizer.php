@@ -1,7 +1,7 @@
 <?php
 # ========================================================================#
 #
-#  Author:    Jarrod Oberto
+#  Original Author:    Jarrod Oberto
 #  Version:	 1.0
 #  Date:      17-Jan-10
 #  Purpose:   Resizes and saves image
@@ -14,6 +14,8 @@
 #
 #
 # Modified:	Chris Howard
+# Version: 1.6
+# Date: 29-Oct-13
 # Changes:	Added crop vertical alignment
 # 			Added crop horizontal alignment
 #			Added image quality option
