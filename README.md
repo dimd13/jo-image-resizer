@@ -8,7 +8,7 @@ Features
 - Focal point cropping
 
 To do
-====
+-----
 
 - Add js for setting WP focal point
 - Make generic PHP class for creating images inc cache
