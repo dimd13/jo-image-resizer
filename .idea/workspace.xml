@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="97a81627-71df-4ff9-8b1d-28fa105bbd1e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jo-image-resizer.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,7 +37,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="3" selection-start="112" selection-end="112" vertical-scroll-proportion="0.089330025" vertical-offset="0" max-vertical-offset="1209">
+            <state line="13" column="54" selection-start="263" selection-end="263" vertical-scroll-proportion="0.19354838" vertical-offset="0" max-vertical-offset="1209">
               <folding />
             </state>
           </provider>
@@ -186,7 +185,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="3" selection-start="112" selection-end="112" vertical-scroll-proportion="0.089330025" vertical-offset="0" max-vertical-offset="1209">
+        <state line="13" column="54" selection-start="263" selection-end="263" vertical-scroll-proportion="0.19354838" vertical-offset="0" max-vertical-offset="1209">
           <folding />
         </state>
       </provider>

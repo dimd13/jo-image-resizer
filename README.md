@@ -7,7 +7,7 @@ Features
 - Multiple cropping options
 - Focal point cropping
 
-TODO
+To do
 ====
 
 - Add js for setting WP focal point
